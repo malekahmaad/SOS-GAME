@@ -15,6 +15,7 @@ To try the game you need to do this:
 
 Go to the terminal and write this line: python player.py, then choose an option between 1 (PLAYER VS PLAYER), 2 (PLAYER VS AI) and 3 (PLAYER VS STRONG_AI) to play the game.
 
+------------------------------------------------------------------------------------------------------------------------
 NOTE: you can change the size of the game board before playing and you can change the number of iterations before training the neural network in the two trainers files.
 
 NOTE: if you want to play against the PUCT player you need to run the two trainers to train the neural network (when you see this file "SOS.weights.h5" then you ca play against the strong AI).
